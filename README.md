@@ -1,28 +1,23 @@
-# This is a large heading
+# Erik Köhler
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in germany, in the city Gera.
 
-- This is
-- an unordered
-- list
+### Playing
 
-1. This is
-2. an ordered
-3. list
+Two of my favorite games are:
 
-Here is `some code` in the middle of a sentence.
+- *Velorant*
+- *Raft*
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about eating in these restaurants:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Aposto in Gera 
+2. Linger in Denver
+
+### Contact 
+
+The best way to contact me is on Twitter (https://twitter.com/CqrryE)
